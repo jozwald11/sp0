@@ -1,0 +1,69 @@
+Orange Blinking Lights
+ Web Team
+
+*Home Page
+-good as it is, really shouldn't need much updating, maybe a slideshow and notification bar
+
+Categories
+About
+  Who are we as a team (at least a few paragraphs)
+  What do we do as a team (at least a few paragraphs)
+  What Is the FRC (at least a few paragraphs)
+  What Is Sponsors us? (talk about why we get good pr)
+  How can you sponsor us (link to sponsorships page)
+  A few select pictures of us and the robot
+  A few select pictures of us doing community outreach  
+  Personal Profiles of People of Interest (picture and short paragraph per person)
+    Instructors
+    Admins
+    Mentors
+    Captains
+    Team Members
+Sponsors
+  List What we need (Not Just Money! Menton also looking for food, parts, people etc!)
+  Explain why we need these things and lastly explain...
+  Why we need money (list expenses)
+  Where your money goes (mention no money is used for personal stuff)
+  Benefits of donating (Name / company logo on robot and website)
+  Links to locations for donation
+  Links to Contacts for donating things that aren't money
+Contact
+  List Contact information in order of importance:
+    Instructors
+    Admins
+    Mentors
+    Captains
+    Team Members
+  Include as much contact information as provided for each person: email, phone, discord, etc.
+Gallery
+  Albums of Photos able to be selected with a drop down menu, include JSON file with each album for Short 1 sentence on each picture and 1 paragraph per album
+  MAKE SURE PHOTOS ARE NAMED
+  Ability to download any photo with ease (click on name download button)
+  Support videos in gallery with descriptions
+  Allow easy upload of albums with a password protecting it
+Events
+  Live feed from #important-notifications via a webhook discord app
+  Embedded Google Calendar with upcoming events, lessons, and meetings, preferably colorcoded
+Team Resources - Main Page and team pages
+  Main Page 
+    Links To our most Important documents, team roster, whos on for meetings, important surveys linked from discord
+    Secondary rolling list of files such as Main meeting presentations and other Misc stuff Admin wants to be seen. 
+  Team Pages -1 per team
+    Team Info (1 paragraph on what the team dose)
+    Rolling list of meeting notes and resources, team specific
+    Programming in specific should have a live code base
+    Art Should have a gallery for throwing around images
+
+Major Upgrades for future:
+Mobile site version for phones and tablets
+User accounts tied with attendance and roll for a team forum
+
+
+Suggested Web Team Roles:
+Web Captain
+Dedicated Photographer (Pull from Art)
+Dedicated Gallery Maintainer (Pull from Art)
+Web PRs for about and sponsors (pull from PR)
+Interviewers for personal profiles (Anyone)
+Data Runners for gathering contact information (Anyone)
+HTML authors for plugging in content from everyone else (pull from programming)
