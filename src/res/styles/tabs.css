@@ -1,0 +1,20 @@
+
+#tabCtrl 
+{
+    background-color:#000;
+	min-height: 100%;
+}
+
+.tabBtn 
+{
+    border: none;
+    padding: 14px 16px;
+	color: white;
+	font-weight: bold;
+}
+
+.tab 
+{
+	padding: 10px 30px;
+    border: 1px solid #ccc;
+}
